@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "question": "Что такое квадратный корень из 16?",
+      "options": ["2", "4", "6", "8"],
+      "correctAnswerIndex": 1,
+      "points": 1
+    },
+    {
+      "question": "Сколько углов в треугольнике?",
+      "options": ["2", "3", "4", "5"],
+      "correctAnswerIndex": 1,
+      "points": 1
+    },
+    {
+      "question": "Какое число является делителем числа 12?",
+      "options": ["2", "5", "7", "9"],
+      "correctAnswerIndex": 0,
+      "points": 2
+    },
+    {
+      "question": "Что такое произведение 7 и 9?",
+      "options": ["56", "63", "72", "81"],
+      "correctAnswerIndex": 1,
+      "points": 2
+    },
+    {
+      "question": "Сколько метров в одном километре?",
+      "options": ["100", "500", "1000", "1500"],
+      "correctAnswerIndex": 2,
+      "points": 1
+    },
+    {
+      "question": "Какое число является простым?",
+      "options": ["4", "6", "7", "9"],
+      "correctAnswerIndex": 2,
+      "points": 2
+    },
+    {
+      "question": "Сколько дней в феврале в невисокосный год?",
+      "options": ["28", "29", "30", "31"],
+      "correctAnswerIndex": 0,
+      "points": 1
+    },
+    {
+      "question": "Какое значение имеет Пи (π) в математике?",
+      "options": ["2.14", "3.14", "3.16", "3.18"],
+      "correctAnswerIndex": 1,
+      "points": 2
+    },
+    {
+      "question": "Что такое квадрат числа 5?",
+      "options": ["10", "15", "20", "25"],
+      "correctAnswerIndex": 3,
+      "points": 3
+    },
+    {
+      "question": "Сколько градусов в круге?",
+      "options": ["360", "180", "90", "270"],
+      "correctAnswerIndex": 0,
+      "points": 1
+    }
+  ]
+}

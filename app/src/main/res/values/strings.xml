@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">MathQuiz</string>
+    <string name="title">Math for everyone</string>
+    <string name="startButton">Start</string>
+    <string name="logo">logo</string>
+    <string name="question_text">Сколько будет 2 + 2 * 2?</string>
+    <string name="option_1">Option 1</string>
+    <string name="option_2">Option 2</string>
+    <string name="option_3">Option 3</string>
+    <string name="option_4">Option 4</string>
+    <string name="nextButton">Next</string>
+    <string name="timerValue">30s</string>
+    <string name="clock">clock</string>
+    <string name="questionNumber">Вопрос 1 из 15</string>
+    <string name="rating">Your Rating</string>
+    <string name="score">425</string>
+    <string name="correct">Correct</string>
+    <string name="result">7/15</string>
+    <string name="completed_in">Completed In</string>
+    <string name="time_completed_in">3m 41s</string>
+    <string name="leave_button">Leave</string>
+    <string name="new_game_button">New Game</string>
+</resources>
